@@ -1,0 +1,22 @@
+{
+  "name": "npm-1",
+  "version": "1.0.0",
+  "description": "A demo package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patdaburu/npm-1.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "Pat Daburu <pat@daburu.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patdaburu/npm-1/issues"
+  },
+  "homepage": "https://github.com/patdaburu/npm-1#readme"
+}
